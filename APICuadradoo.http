@@ -1,0 +1,6 @@
+@APICuadradoo_HostAddress = http://localhost:5220
+
+GET {{APICuadradoo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
